@@ -30,3 +30,11 @@ h5{
     left: 50%;
     transform: translate(-50% , -50%)
 }
+h7{
+    font-size: 30px;
+    color: blueviolet;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50% , -50%)
+}
